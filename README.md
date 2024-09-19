@@ -1,3 +1,4 @@
+<img src="banner.png" alt="banner image" width="200" height="100"/>
 ## 👋 Hi, I’m Abdimajid
  
 
